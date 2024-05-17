@@ -1,3 +1,3 @@
 ### Hi there 👋 
 
-- 🌱 I’m currently learning Front-End web development 
+## I"m Front-End Developer who inspire to make a world of colors
