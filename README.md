@@ -8,7 +8,6 @@
 [![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react "React")](https://skillicons.dev)
 [![Redux](https://skillicons.dev/icons?i=redux "Redux")](https://skillicons.dev)
-[![GraphQL](https://skillicons.dev/icons?i=graphql "GraphQL")](https://skillicons.dev)
 [![Sass](https://skillicons.dev/icons?i=sass "Sass")](https://skillicons.dev)
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind "TailwindCSS")](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git "Git")](https://skillicons.dev)
@@ -16,7 +15,6 @@
 [![Python](https://skillicons.dev/icons?i=python "Python")](https://skillicons.dev)
 [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://skillicons.dev)
 [![Netlify](https://skillicons.dev/icons?i=netlify "Netlify")](https://skillicons.dev)
-[![Parcel](https://skillicons.dev/icons?i=parcel "Parcel")](https://skillicons.dev)
 [![Babel](https://skillicons.dev/icons?i=babel "Babel")](https://skillicons.dev)
 
 # 📊 GitHub Stats:
