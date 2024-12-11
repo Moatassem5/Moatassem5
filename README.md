@@ -8,6 +8,7 @@
 [![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react "React")](https://skillicons.dev)
 [![Redux](https://skillicons.dev/icons?i=redux "Redux")](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs "Next.js")](https://skillicons.dev)
 [![Sass](https://skillicons.dev/icons?i=sass "Sass")](https://skillicons.dev)
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind "TailwindCSS")](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git "Git")](https://skillicons.dev)
