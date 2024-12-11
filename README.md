@@ -2,7 +2,22 @@
 ## I am a front-end developer who has a passion to make the world more colorful 🎨<br>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,tailwind,git,figma,python,netlify,babel)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html "HTML")](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css "CSS")](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react "React")](https://skillicons.dev)
+[![Redux](https://skillicons.dev/icons?i=redux "Redux")](https://skillicons.dev)
+[![GraphQL](https://skillicons.dev/icons?i=graphql "GraphQL")](https://skillicons.dev)
+[![Sass](https://skillicons.dev/icons?i=sass "Sass")](https://skillicons.dev)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind "TailwindCSS")](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git "Git")](https://skillicons.dev)
+[![Figma](https://skillicons.dev/icons?i=figma "Figma")](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python "Python")](https://skillicons.dev)
+[![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://skillicons.dev)
+[![Netlify](https://skillicons.dev/icons?i=netlify "Netlify")](https://skillicons.dev)
+[![Parcel](https://skillicons.dev/icons?i=parcel "Parcel")](https://skillicons.dev)
+[![Babel](https://skillicons.dev/icons?i=babel "Babel")](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Moatassem5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
