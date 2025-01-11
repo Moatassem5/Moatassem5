@@ -1,5 +1,5 @@
 # 💫 About Me:
-## I am a front-end developer who has a passion to make the world more colorful 🎨<br>
+## Software Engineer passionate about building scalable solutions and delivering seamless user experiences. 🌟 With a strong foundation in front-end development and a commitment to continuous learning, I enjoy solving complex problems and contributing to impactful projects. Let’s collaborate to drive innovation and create meaningful technology. 🚀<br>
 
 # 💻 Tech Stack:
 [![HTML](https://skillicons.dev/icons?i=html "HTML")](https://skillicons.dev)
