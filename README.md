@@ -1,9 +1,18 @@
 # 💫 About Me:
-## Software Engineer passionate about building scalable solutions and delivering seamless user experiences. 🌟 With a strong foundation in front-end development and a commitment to continuous learning, I enjoy solving complex problems and contributing to impactful projects. Let’s collaborate to drive innovation and create meaningful technology. 🚀<br>
+
+## 🚀 Product Management & Business Analysis Enthusiast | Software Developer
+
+Passionate about **product management, business analysis, and software development**, I thrive at the intersection of technology and strategy. With a strong foundation in **frontend development, requirements gathering, and stakeholder communication**, I focus on delivering **user-centric, data-driven solutions** that enhance business outcomes.
+
+💡 Experienced in **market research, UI/UX, and software lifecycle management**, I enjoy breaking down complex problems and collaborating with **cross-functional teams** to drive innovation.
+
+📌 **Currently pursuing a Bachelor's in Business Information Systems**, I am eager to bridge the gap between business needs and technical solutions. Let's connect and create impactful digital experiences!
+
 
 # 💻 Tech Stack:
 [![HTML](https://skillicons.dev/icons?i=html "HTML")](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css "CSS")](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python "Python")](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react "React")](https://skillicons.dev)
@@ -13,7 +22,6 @@
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind "TailwindCSS")](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git "Git")](https://skillicons.dev)
 [![Figma](https://skillicons.dev/icons?i=figma "Figma")](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=python "Python")](https://skillicons.dev)
 [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://skillicons.dev)
 [![Netlify](https://skillicons.dev/icons?i=netlify "Netlify")](https://skillicons.dev)
 [![Babel](https://skillicons.dev/icons?i=babel "Babel")](https://skillicons.dev)
