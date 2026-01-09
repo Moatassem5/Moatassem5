@@ -34,8 +34,3 @@ I sit at the intersection of business strategy and software engineering. My goal
 [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://skillicons.dev)
 [![Netlify](https://skillicons.dev/icons?i=netlify "Netlify")](https://skillicons.dev)
 [![Babel](https://skillicons.dev/icons?i=babel "Babel")](https://skillicons.dev)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Moatassem5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Moatassem5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moatassem5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
