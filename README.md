@@ -30,6 +30,5 @@ I sit at the intersection of business strategy and software engineering. My goal
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind "TailwindCSS")](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git "Git")](https://skillicons.dev)
 [![Figma](https://skillicons.dev/icons?i=figma "Figma")](https://skillicons.dev)
-[![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://skillicons.dev)
 [![Netlify](https://skillicons.dev/icons?i=netlify "Netlify")](https://skillicons.dev)
 [![Babel](https://skillicons.dev/icons?i=babel "Babel")](https://skillicons.dev)
