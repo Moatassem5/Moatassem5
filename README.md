@@ -9,7 +9,6 @@ I sit at the intersection of business strategy and software engineering. My goal
 * **Technical Literacy:** A strong foundation in full-stack development (JS, React, Python) allows me to communicate effectively with development teams and reduce friction during handoffs.
 * **Data-Driven Decision Making:** Proficiency in SQL and Power BI to back product decisions with hard data.
 
-📌 **Currently pursuing a Bachelor's in Business Information Systems**, I am eager to bridge the gap between business needs and technical solutions. Let's connect and create impactful digital experiences!
 
 ### Analysis & Management Tools
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
